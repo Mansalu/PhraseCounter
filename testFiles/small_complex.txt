@@ -1,0 +1,5 @@
+This file is suppos-
+ed to have lots of edge cases! This, file is meant to he-
+lp validate. THE functionality of the program Ɓ should be encode-
+d correctly don't forget about pesky contractions This file is supposed TO h%ave lots
+of edge cases lots of edge this file is this file is
