@@ -66,6 +66,8 @@ A comprehensive test file is provided. You can run the tests with the following 
 
 `python3 TestPhraseCounter.py`
 
-## Known Issues
+## Tradeoffs considered and made
 
 Any contractions are reported as one word with their apostrophe removed (Shouldn't becomes shouldnt).
+
+The unit tests on large files can only really be considered regression tests since it is impossible to validate those inputs by hand. The results have been checked for sensibility, however.
