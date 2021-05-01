@@ -58,7 +58,7 @@ It would also be reasonable to impose different input cleaning requirements (e.g
 The current n-gram windowing algorithm is linear in both time and space. For a gram size N, and a text
 containing W words complexity is O(N * W).
 
-Given more time I would investigate using suffix trees to improve efficiency.
+Given more time I would investigate using suffix trees to improve efficiency. I would add further testing.
 
 ## Tests
 
