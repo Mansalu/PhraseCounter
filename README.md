@@ -8,7 +8,7 @@ PhraseCounter is designed to clean punctuation, line endings, multi-spaces,
 and merge words split accross line endings. Unicode characters are handled as well as 
 ASCII.
 
-PhraseCounter uses n-grams composed from sequences of words to compute frequencies
+PhraseCounter uses n-grams composed from lists of words parsed from text to compute frequencies
 of word sequences. PhraseCounter is also capable of counting sequences of any size, and
 the n-gram windowing can be applied to generic sequences.
 
