@@ -112,8 +112,7 @@ def main():
 
     if (InputText == ""):
         InputText += sys.stdin.read()
-
-    # Top 100 3-word sequences
+        
     counts = GetTopPhrases(CleanInputText(InputText), SEQUENCE_SIZE, NUMBER_OF_ENTRIES)
 
     for phrase in counts:
