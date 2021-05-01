@@ -35,11 +35,11 @@ OR
 
 Build the image
 
-`docker build . -t PhraseCounter`
+`docker build . -t counter`
 
 Run the container 
 
-`docker run PhraseCounter testFiles/les_mis.txt`
+`docker run counter testFiles/les_mis.txt`
 
 ## Use as a library
 
