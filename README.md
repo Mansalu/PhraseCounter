@@ -1,6 +1,6 @@
 # PhraseCounter
 
-PhraseCounter is a utility for ocunting sequences of words in texts.
+PhraseCounter is a utility for counting sequences of words in texts.
 Emphasis has been placed on extensibility and readability. This Project
 can be run on the command line or used as a library.
 
